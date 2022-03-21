@@ -142,3 +142,5 @@ REST_FRAMEWORK = {
 }
 
 STATIC_ROOT = BASE_DIR / 'staticfiles'
+
+APPEND_SLASH = False
